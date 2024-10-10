@@ -1,5 +1,5 @@
-import Tesseract from "./tesseract.js";
-import jsPDF from "./jspdf";
+// import Tesseract from "./tesseract.js";
+// import jsPDF from "./jspdf";
 
 const doc = new jsPDF();
 
